@@ -14,7 +14,7 @@ def getDetailed(
         start_date, 
         end_date, 
         aggInterval = '00:05:00', 
-        maxSize=100000, 
+        maxSize=1000000, 
         start_time = '00:00:00', 
         end_time = '23:59:59', 
         ):

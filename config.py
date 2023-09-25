@@ -353,7 +353,7 @@ tags['BCP1_SOC'] = 'Advantech2-HIST.LANCASTER.INV_1.DPS_1.DPS_SOC'
 
 tags['DPS_MaxACharge'] = 'ADVANTECH2-HIST.LANCASTER.INV_2.DPS_1.DPS_MaxBatACha'
 tags['DPS_MaxADischarge'] = 'ADVANTECH2-HIST.LANCASTER.INV_2.DPS_1.DPS_MaxBatADischa'
-
+tags['DPS_SOC'] = 'ADVANTECH2-HIST.LANCASTER.INV_2.DPS_1.DPS_SOC'
 tags['allStringCounts'] = [
     'Advantech2-HIST.LANCASTER.INV_1.DPS_3.BIU_1.BIU_ConStringCt',
     'Advantech2-HIST.LANCASTER.INV_1.DPS_3.BIU_2.BIU_ConStringCt',
